@@ -23,8 +23,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-09-21T19:56:37.142310+00:00'
-description: This is a supplementary material of "Bridging integrated information
-  theory and the free-energy principle in living neuronal networks".
+description: Raw and processed data, and derivatives.
 ethicsApproval: []
 id: DANDI:001611/draft
 identifier: DANDI:001611
