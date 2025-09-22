@@ -20,8 +20,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 39215616956
-  numberOfFiles: 2627
+  numberOfBytes: 39929261136
+  numberOfFiles: 2700
   numberOfSubjects: 12
   schemaKey: AssetsSummary
   species:
@@ -43,7 +43,10 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-09-21T19:56:37.142310+00:00'
-description: Detected spikes and derivatives.
+description: Detected spikes in each session of each experiment. It has 100 sessions
+  / 1 experiment × 27 experiment = 2,700 files. Each of them contains information
+  about stimulation time, stimulation electrodes, recorded electrodes and detected
+  spikes.
 ethicsApproval: []
 id: DANDI:001611/draft
 identifier: DANDI:001611
