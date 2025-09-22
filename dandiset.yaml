@@ -22,7 +22,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-09-21T19:56:37.142310+00:00'
-description: Detected spikes from extracellular potential and derivatives.
+description: Detected spikes and derivatives.
 ethicsApproval: []
 id: DANDI:001611/draft
 identifier: DANDI:001611
