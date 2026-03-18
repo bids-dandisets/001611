@@ -1,0 +1,17 @@
+{
+    "Name": "Spiking data of dissociated rat cortical cultures on HD-MEAs during repeated-stimulation experiment",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Detected spikes in each session of each experiment. It has 100 sessions / 1 experiment \u00d7 27 experiment = 2,700 files. Each of them contains information about stimulation time, stimulation electrodes, recorded electrodes and detected spikes.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.11.2.dev15+g782176cb1",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
